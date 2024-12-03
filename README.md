@@ -26,15 +26,15 @@ deactivate
 venv-exit
 ```
 
-Instaling Django
-
-```bash
-python -m pip install Django
-```
-
 ## Aliases
 
 ```bash
 alias venv-enter="source venv/bin/activate"
 alias venv-exit="deactivate"
+```
+
+## Troubleshooting
+
+```bash
+python -m pip install Django
 ```
