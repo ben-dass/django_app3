@@ -1,6 +1,6 @@
-# Blog
+# Book Store
 
-Udemy course project 2.
+Book Store
 
 ## Managing virtual environments
 
@@ -30,4 +30,11 @@ Instaling Django
 
 ```bash
 python -m pip install Django
+```
+
+## Aliases
+
+```bash
+alias venv-enter="source venv/bin/activate"
+alias venv-exit="deactivate"
 ```
